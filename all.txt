@@ -4,10 +4,6 @@ http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
 
-http://207.241.231.226:6969/announce
-
-http://64.226.122.118:6969/announce
-
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
@@ -16,13 +12,9 @@ http://bt1.archive.org:6969/announce
 
 http://bt1.xxxxbt.cc:6969/announce
 
-http://bt2.archive.org:6969/announce
-
 http://bvarf.tracker.sh:2086/announce
 
 http://nyaa.tracker.wf:7777/announce
-
-http://open.trackerlist.xyz:80/announce
 
 http://retracker.spark-rostov.ru:80/announce
 
@@ -50,19 +42,21 @@ http://tracker.exe.in.th:6969/announce
 
 http://tracker.ghostchu-services.top:80/announce
 
-http://tracker.moxing.party:6969/announce
-
 http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
 http://tracker.renfei.net:8080/announce
 
+http://tracker.sbsub.com:2710/announce
+
 http://tracker.skyts.net:6969/announce
 
 http://tracker.vanitycore.co:6969/announce
 
 http://tracker.waaa.moe:6969/announce
+
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
 
@@ -82,6 +76,8 @@ https://1337.abcvg.info:443/announce
 
 https://cny.fan:443/announce
 
+https://colibri.parrot.run:443/announce
+
 https://http1.torrust-tracker-demo.com:443/announce
 
 https://pybittrack.retiolus.net:443/announce
@@ -95,8 +91,6 @@ https://torrent.tracker.durukanbal.com:443/announce
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -150,8 +144,6 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
-udp://ibksturm.synology.me:6969/announce
-
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -160,11 +152,7 @@ udp://martin-gebhardt.eu:25/announce
 
 udp://ns575949.ip-51-222-82.net:6969/announce
 
-udp://obey.torrentonline.cc:42069/announce
-
 udp://open.demonii.com:1337/announce
-
-udp://open.ftorrent.com:443/announce
 
 udp://open.stealth.si:80/announce
 
@@ -175,6 +163,8 @@ udp://p4p.arenabg.com:1337/announce
 udp://rekcart.duckdns.org:15480/announce
 
 udp://retracker.hotplug.ru:2710/announce
+
+udp://seedpeer.net:6969/announce
 
 udp://t.overflow.biz:6969/announce
 
@@ -254,8 +244,6 @@ udp://tracker3.itzmx.com:6961/announce
 
 udp://tracker4.itzmx.com:2710/announce
 
-udp://trackthis.cyber.pz.it:1337/announce
-
 udp://uabits.today:6990/announce
 
 udp://udp.tracker.projectk.org:23333/announce
@@ -264,7 +252,7 @@ udp://udp1.torrust-tracker-demo.com:6969/announce
 
 udp://utracker.ghostchu-services.top:6969/announce
 
-udp://vito-tracker.duckdns.org:6969/announce
+udp://vito-tracker.space:2095/announce
 
 udp://wepzone.net:6969/announce
 
