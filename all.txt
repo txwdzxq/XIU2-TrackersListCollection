@@ -24,8 +24,6 @@ http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw:80/announce
 
 http://tracker.bt4g.com:2095/announce
@@ -36,9 +34,9 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
-http://tracker.mywaifu.best:6969/announce
+http://tracker.lintk.me:2710/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.mywaifu.best:6969/announce
 
 http://tracker.qu.ax:6969/announce
 
@@ -130,6 +128,8 @@ udp://evan.im:6969/announce
 
 udp://exodus.desync.com:6969/announce
 
+udp://explodie.org:6969/announce
+
 udp://ipv4announce.sktorrent.eu:6969/announce
 
 udp://leet-tracker.moe:1337/announce
@@ -160,8 +160,6 @@ udp://retracker.hotplug.ru:2710/announce
 
 udp://seedpeer.net:6969/announce
 
-udp://speedtest.iperson.xyz:6969/announce
-
 udp://t.overflow.biz:6969/announce
 
 udp://torrentclub.online:54123/announce
@@ -183,8 +181,6 @@ udp://tracker.auctor.tv:6969/announce
 udp://tracker.bittor.pw:1337/announce
 
 udp://tracker.bluefrog.pw:2710/announce
-
-udp://tracker.breizh.pm:6969/announce
 
 udp://tracker.corpscorp.online:80/announce
 
@@ -219,8 +215,6 @@ udp://tracker.playground.ru:6969/announce
 udp://tracker.plx.im:6969/announce
 
 udp://tracker.qu.ax:6969/announce
-
-udp://tracker.sharebro.in:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
