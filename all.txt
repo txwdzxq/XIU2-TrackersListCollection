@@ -1,5 +1,7 @@
 http://004430.xyz:80/announce
 
+http://0d.kebhana.mx:443/announce
+
 http://1337.abcvg.info:80/announce
 
 http://207.241.226.111:6969/announce
@@ -10,9 +12,15 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 
+http://bt.okmp3.ru:2710/announce
+
 http://bt1.archive.org:6969/announce
 
+http://bt1.xxxxbt.cc:6969/announce
+
 http://bt2.archive.org:6969/announce
+
+http://buny.uk:6969/announce
 
 http://bvarf.tracker.sh:2086/announce
 
@@ -26,17 +34,19 @@ http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
 
-http://tr.kxmp.cf:80/announce
-
 http://tr.nyacat.pw:80/announce
 
 http://tracker.bt4g.com:2095/announce
+
+http://tracker.bz:80/announce
 
 http://tracker.dhitechnical.com:6969/announce
 
 http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
+
+http://tracker.moxing.party:6969/announce
 
 http://tracker.mywaifu.best:6969/announce
 
@@ -82,11 +92,11 @@ https://shahidrazi.online:443/announce
 
 https://t.213891.xyz:443/announce
 
-https://torrent.tracker.durukanbal.com:443/announce
-
 https://torrents.tmtime.dev:443/announce
 
 https://tr.abiir.top:443/announce
+
+https://tr.abir.ga:443/announce
 
 https://tr.nyacat.pw:443/announce
 
@@ -133,6 +143,8 @@ udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://archive.torrentonline.cc:42069/announce
 
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
+
+udp://cerf.cs.umd.edu:8000/announce
 
 udp://coeus.torrentonline.cc:42069/announce
 
@@ -249,6 +261,8 @@ udp://tracker.torrent.eu.org:451/announce
 udp://tracker.tryhackx.org:6969/announce
 
 udp://tracker.wildkat.net:6969/announce
+
+udp://tracker.yume-hatsuyuki.moe:6969/announce
 
 udp://tracker1.itzmx.com:8080/announce
 
