@@ -28,13 +28,9 @@ http://nyaa.tracker.wf:7777/announce
 
 http://retracker01-msk-virt.corbina.net:80/announce
 
-http://supertracker.cc.cd:80/announce
-
 http://torrentsmd.com:8080/announce
 
 http://tr.highstar.shop:80/announce
-
-http://tr.kxmp.cf:80/announce
 
 http://tr.nyacat.pw:80/announce
 
@@ -50,7 +46,7 @@ http://tracker.mywaifu.best:6969/announce
 
 http://tracker.opentorrent.top:6969/announce
 
-http://tracker.opentrackr.org:1337/announce
+http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -63,8 +59,6 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
 
 http://tracker.zhuqiy.com:80/announce
-
-http://tracker.zhuqiy.dgj055.icu:80/announce
 
 http://tracker1.itzmx.com:8080/announce
 
@@ -101,8 +95,6 @@ https://tr.nyacat.pw:443/announce
 https://tr.zukizuki.org:443/announce
 
 https://tracker.7471.top:443/announce
-
-https://tracker.adgk.net:443/announce
 
 https://tracker.bt4g.com:443/announce
 
