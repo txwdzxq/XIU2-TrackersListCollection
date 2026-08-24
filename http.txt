@@ -38,11 +38,11 @@ http://tracker.dler.com:6969/announce
 
 http://tracker.dler.org:6969/announce
 
+http://tracker.mywaifu.best:6969/announce
+
 http://tracker.nexusstream.eu:6969/announce
 
 http://tracker.opentrackr.org:1337/announce
-
-http://tracker.plx.im:6969/announce
 
 http://tracker.privateseedbox.xyz:2710/announce
 
@@ -67,8 +67,6 @@ http://www.wareztorrent.com:80/announce
 https://004430.xyz:443/announce
 
 https://1337.abcvg.info:443/announce
-
-https://edgev.duckdns.org:443/announce
 
 https://ht.therarbg.to:443/announce
 
