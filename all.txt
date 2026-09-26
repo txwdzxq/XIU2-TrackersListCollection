@@ -62,15 +62,13 @@ https://1.tracker.eu.org:443/announce
 
 https://1337.abcvg.info:443/announce
 
-https://ht.therarbg.to:443/announce
-
 https://open.ftorrent.com:443/announce
+
+https://pybittrack.retiolus.net:443/announce
 
 https://t.213891.xyz:443/announce
 
 https://tr.abiir.top:443/announce
-
-https://tr.abir.ga:443/announce
 
 https://tr.burnabyhighstar.com:443/announce
 
@@ -201,6 +199,8 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.playground.ru:6969/announce
 
 udp://tracker.qu.ax:6969/announce
+
+udp://tracker.skynetcloud.site:6969/announce
 
 udp://tracker.skyts.net:6969/announce
 
